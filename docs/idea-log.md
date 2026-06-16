@@ -60,3 +60,5 @@ JavaScript tracking dashboard connected to a shared team spreadsheet backend dat
 
 ### Why This is Suitable
 Leverages spreadsheet expertise (Mi Su Zin Swar) and basic HTML structures to build a data-driven prototype efficiently.
+
+Refine idea log descriptions and improve explanations
