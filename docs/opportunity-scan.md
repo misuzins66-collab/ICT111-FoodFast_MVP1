@@ -37,5 +37,3 @@
 | Idea 4: FoodFast Pre-Ordering App | 4 | 5 | 5 | 14 | 1 | Winner: High utility and no physical hardware risk |
 | Idea 5: Peer-Learning Matcher | 3 | 3 | 3 | 9 | 6 | Lower feasibility for student matching data |
 | Idea 6: Event Attendance Tracker | 2 | 3 | 5 | 10 | 5 | High feasibility but low entrepreneurial urgency |
-
-*Conclusion: Idea 4 (FoodFast) scored the highest overall due to its high utility and lack of physical hardware dependencies, making it the selected project for development.*
